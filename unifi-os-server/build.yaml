@@ -6,6 +6,6 @@ build_from:
   aarch64: ghcr.io/clllaur/unifi-os-server:v5.1.37
 labels:
   org.opencontainers.image.title: UniFi OS Server (Home Assistant add-on)
-  org.opencontainers.image.source: https://github.com/clllaur/unifi-os-server-HA
+  org.opencontainers.image.source: https://github.com/jvl001/unifi-os-server-HA
 codenotary:
   signer: false
