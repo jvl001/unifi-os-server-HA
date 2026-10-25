@@ -26,7 +26,6 @@ tmpfs: true
 webui: "https://[HOST]:[PORT:443]"
 options:
   UOS_SYSTEM_IP: ""
-  HARDWARE_PLATFORM: ""
 schema:
   UOS_SYSTEM_IP: str?
   HARDWARE_PLATFORM: "list(synology)?"
