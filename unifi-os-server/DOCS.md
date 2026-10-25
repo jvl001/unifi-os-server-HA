@@ -1,5 +1,7 @@
 # UniFi OS Server
 
+A fork of [clllaur/unifi-os-server](https://github.com/clllaur/unifi-os-server).
+
 Self-hosted [UniFi OS Server](https://blog.ui.com/article/introducing-unifi-os-server)
 running as a Home Assistant add-on. It packages the image built by
 [clllaur/unifi-os-server](https://github.com/clllaur/unifi-os-server), which is
@@ -26,7 +28,7 @@ extracted from UniFi's official self-hosting installer.
 2. Open the **⋮** menu (top right) → **Repositories** and add:
 
    ```
-   https://github.com/clllaur/unifi-os-server-HA
+   https://github.com/jvl001/unifi-os-server-HA
    ```
 
 3. Find **UniFi OS Server** in the store and click **Install**.
