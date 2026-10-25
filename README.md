@@ -1,5 +1,7 @@
 # UniFi OS Server — Home Assistant Add-on Repository
 
+A fork of [clllaur/unifi-os-server](https://github.com/clllaur/unifi-os-server) for testing purposes.
+
 A [Home Assistant](https://www.home-assistant.io) add-on repository for running
 [UniFi OS Server](https://blog.ui.com/article/introducing-unifi-os-server)
 self-hosted, using the image built by
@@ -10,7 +12,7 @@ self-hosted, using the image built by
 **Settings → Add-ons → Add-on Store → ⋮ → Repositories**, then add:
 
 ```
-https://github.com/clllaur/unifi-os-server-HA
+https://github.com/jvl001/unifi-os-server-HA
 ```
 
 [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fclllaur%2Funifi-os-server-HA)
