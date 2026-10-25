@@ -17,6 +17,8 @@ startup: services
 full_access: true
 host_network: true
 apparmor: false
+privileged:
+  - SYS_ADMIN
 tmpfs: true
 # UniFi uses host networking, so it binds its ports (443, 8080, 3478/udp,
 # 10001/udp, 10003/udp, ...) directly on the Home Assistant host. There is no
